@@ -27,7 +27,7 @@ export default function Steps() {
 											<li>Un lien : https://giphy.com/gifs/ggM2mcRFtz1GDbrUrS</li>
 											<li>La phrase : "Va chez Raymonde et demande lui une limonade dynamisée"</li>
 										</ol>
-										<h4 className="text-lg underline md:text-xl">Réponses :</h4>
+										<h4 className="text-lg underline md:text-xl">Explications :</h4>
 										<p>En tapant le lien sur un moteur de recherche, on est redirigé vers un gif :</p>
 										<div className="relative h-96">
 											<Image

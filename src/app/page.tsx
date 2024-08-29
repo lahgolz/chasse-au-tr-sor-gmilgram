@@ -8,8 +8,8 @@ export default function Home() {
 			<div className="flex flex-col gap-4">
 				<p>
 					Ce site internet a été créé pour répertorier les solutions et retracer les recherches de la chasse au trésor
-					organisée par G Milgram. Vous trouverez ici les indices, les réponses aux énigmes ainsi que des photos et
-					vidéos prisent sur place par des chercheurs (si jamais il y en a).
+					organisée par G Milgram. Vous trouverez ici les indices, les explications des réponses aux énigmes ainsi que
+					des photos et vidéos prisent sur place par des chercheurs (si jamais il y en a).
 				</p>
 				<p>Si jamais vous souhaitez participer, je vous invite à aller regarder cette vidéo de G Milgram :</p>
 				<iframe
