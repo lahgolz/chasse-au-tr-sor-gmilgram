@@ -21,15 +21,15 @@ export default function Steps() {
 							<AccordionContent className="pb-0">
 								<CardContent>
 									<Separator className="absolute top-16 w-[calc(100%-3rem)]" />
-									<div className="grid gap-4">
+									<div className="flex flex-col gap-4">
 										<h4 className="text-lg underline md:text-xl">Indices :</h4>
 										<ol>
-											<li>Un lien : https://giphy.com/gifs/ggM2mcRFtz1GDbrUrS</li>
-											<li>La phrase : "Va chez Raymonde et demande lui une limonade dynamisée"</li>
+											<li>1. Un lien : https://giphy.com/gifs/ggM2mcRFtz1GDbrUrS</li>
+											<li>2. La phrase : "Va chez Raymonde et demande lui une limonade dynamisée"</li>
 										</ol>
 										<h4 className="text-lg underline md:text-xl">Explications :</h4>
 										<p>En tapant le lien sur un moteur de recherche, on est redirigé vers un gif :</p>
-										<div className="relative h-96">
+										<div className="relative h-72 md:h-96">
 											<Image
 												src="/etapes/1/indice.gif"
 												layout="fill"
@@ -42,7 +42,7 @@ export default function Steps() {
 											aussi un personnage avec les pouces baissés (pour signifier que ce n'est pas l'endroit recherché),
 											ou un pouce levé sur une seule image (pour signifier que c'est l'endroit recherché).
 										</p>
-										<div className="relative h-96">
+										<div className="relative h-72 md:h-96">
 											<Image
 												src="/etapes/1/bonne-frame.png"
 												layout="fill"
@@ -52,7 +52,7 @@ export default function Steps() {
 										</div>
 										<p>
 											En cherchant sur Google Maps, on peut trouver l'endroit qui correspond à l'image ci-dessus : le
-											pont entre La Rochelle et l'Île de Ré.
+											pont entre La Rochelle et l'Île de Ré (merci Astri' pour la localisation Google Maps exacte).
 										</p>
 										<Button variant="link" asChild>
 											<Link
@@ -60,7 +60,7 @@ export default function Steps() {
 												target="_blank"
 												rel="noopener noreferrer"
 											>
-												Lien vers la page Google Maps (Merci Astri' pour le lieu exact)
+												Lien vers la page Google Maps
 											</Link>
 										</Button>
 										<p>
