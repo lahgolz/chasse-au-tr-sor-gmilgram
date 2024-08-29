@@ -14,7 +14,7 @@ export function NavbarDesktop() {
 			<NavigationMenuList>
 				<NavigationMenuItem>
 					<NavigationMenuLink className={navigationMenuTriggerStyle()} href="/">
-						Acceuil
+						Accueil
 					</NavigationMenuLink>
 				</NavigationMenuItem>
 				<NavigationMenuItem>
