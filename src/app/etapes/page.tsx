@@ -56,11 +56,11 @@ export default function Steps() {
 										</p>
 										<Button variant="link" asChild>
 											<Link
-												href="https://www.google.fr/maps/@46.1734202,-1.2343992,3a,75y,322.66h,80.82t/data=!3m8!1e1!3m6!1sAF1QipOAvaXgANleX9bSBZdN-kmoKFKJIffOk1rq92Gl!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOAvaXgANleX9bSBZdN-kmoKFKJIffOk1rq92Gl%3Dw203-h100-k-no-pi0.41481084-ya274.81506-ro-2.0760534-fo100!7i7680!8i3840?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D"
+												href="https://www.google.com/maps/@46.1658137,-1.2531377,3a,75y,310.92h,67.56t/data=!3m8!1e1!3m6!1sAF1QipMesjaN_d9aP0l6Fzyes2GwYeAOK85iZUvAR9Ef!2e10!3e11!6s%2F%2Flh5.ggpht.com%2Fp%2FAF1QipMesjaN_d9aP0l6Fzyes2GwYeAOK85iZUvAR9Ef%3Dw900-h600-k-no-pi22.44197316916059-ya80.36335818628612-ro0-fo100!7i7680!8i3840?coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyNy4wIKXMDSoASAFQAw%3D%3D"
 												target="_blank"
 												rel="noopener noreferrer"
 											>
-												Lien vers la page Google Maps
+												Lien vers la page Google Maps (Merci Astri' pour le lieu exact)
 											</Link>
 										</Button>
 										<p>
