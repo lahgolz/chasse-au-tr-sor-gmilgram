@@ -82,6 +82,8 @@ export default function Steps() {
 											n'a malheureusement pu avoir qu'une simple, mais excellente tout de même, limonade artisanale.
 											Trois personnes étaient passées avant lui.
 										</p>
+										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
+										<p>La crème a été trouvé en 2h environ !</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
@@ -195,6 +197,8 @@ export default function Steps() {
 											/>
 										</div>
 										<p>Félicitations à Avistew pour avoir récupéré la crème quantique n°2 !</p>
+										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
+										<p>La crème a été trouvé en 1h20 !</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
