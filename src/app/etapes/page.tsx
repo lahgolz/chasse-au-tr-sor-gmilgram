@@ -181,8 +181,8 @@ export default function Steps() {
 											précisément le personnage qu'il joue dans la série H. On peut donc en déduire que la ville
 											commence par la lettre H en plus d'avoir la lettre B en cinquième position. Après une petite
 											recherche, on en a déduit que la ville en question était Hazebrouck. Cette ville possède deux
-											bouquineries, Le Marais Du Livre et Les Trois Citrouilles. Malgré le fait que premier propose bien
-											le livre en question, il faut en fait se rendre au deuxième pour chercher le livre, mais sans
+											bouquineries, Le Marais Du Livre et Les Trois Citrouilles. Malgré le fait que le premier propose
+											bien le livre en question, il faut en fait se rendre au deuxième pour chercher le livre, mais sans
 											demander l'aide du bouquiniste, attention ! Une fois trouvé, il ne reste plus qu'à essayer de
 											l'acheter.
 										</p>
