@@ -77,7 +77,11 @@ export default function Steps() {
 												Lien vers la page Google Maps
 											</Link>
 										</Button>
-										<p>Il ne reste plus qu'à s'y rendre et commander une limonade dynamisée.</p>
+										<p>
+											Il ne reste plus qu'à s'y rendre et commander une limonade dynamisée. Notre agent envoyé sur place
+											n'a malheureusement pu avoir qu'une simple, mais excellente tout de même, limonade artisanale.
+											Trois personnes étaient passées avant lui.
+										</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
