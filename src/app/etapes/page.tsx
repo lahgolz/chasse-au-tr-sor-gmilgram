@@ -106,7 +106,7 @@ export default function Steps() {
 										<ol>
 											<li>1. L'inscription : "X. Le 6 aout. (bit.ly/)"</li>
 											<li>
-												2. Un lien avec une phrase : bit.ly/cettepagesestechapeedunlivre (Cette page s'est échappée d'un
+												2. Un lien avec une phrase : <a href="https://bit.ly/cettepagesestechapeedunlivre">bit.ly/cettepagesestechapeedunlivre</a> (Cette page s'est échappée d'un
 												livre. Va chez le bouquiniste et essaye d'acheter le livre sans l'aide du bouquiniste.)
 											</li>
 										</ol>
