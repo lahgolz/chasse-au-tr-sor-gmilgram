@@ -83,7 +83,7 @@ export default function Steps() {
 											Trois personnes étaient passées avant lui.
 										</p>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
-										<p>La crème a été trouvé en 2h environ !</p>
+										<p>La crème a été trouvée en 2h environ !</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
@@ -198,7 +198,7 @@ export default function Steps() {
 										</div>
 										<p>Félicitations à Avistew pour avoir récupéré la crème quantique n°2 !</p>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
-										<p>La crème a été trouvé en 1h20 !</p>
+										<p>La crème a été trouvée en 1h20 !</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
@@ -216,7 +216,53 @@ export default function Steps() {
 							<AccordionContent className="pb-0">
 								<CardContent>
 									<Separator className="absolute top-16 w-[calc(100%-3rem)]" />
-									<div className="grid gap-4 md:grid-cols-2">À venir.</div>
+									<div className="flex flex-col gap-4">
+										<h4 className="text-lg underline md:text-xl">Indices :</h4>
+										<p>
+											Un lien vers la vidéo YouTube : <a href="https://www.youtube.com/watch?v=hTM2xAgitMY">youtu.be/hTM2xAgitMY</a>
+										</p>
+										<h4 className="text-lg underline md:text-xl">Explications :</h4>
+										<p>
+											Les paroles de la vidéo permettent de construire ce lien bit.ly :
+											<a href="https://bit.ly/jolicoupgmercibimpasenviedejouerfinalement">bit.ly/jolicoupgmercibimpasenviedejouerfinalement</a>
+										</p>
+										<p>
+											Ce lien redirigeait vers cette image :
+										</p>
+										<div className="relative h-72 md:h-96">
+											<Image
+												src="/etapes/3/1725265916372270099.png"
+												layout="fill"
+												alt="Première image de l'étape 3"
+												className="object-contain"
+											/>
+										</div>
+										<p>
+											Cette énigme permet de trouver un autre lien bit.ly :
+											<a href="https://bit.ly/nassimharameinditdesbetises">bit.ly/nassimharameinditdesbetises</a>
+										</p>
+										<p>
+											Ce lien redirigeait vers cette image :
+										</p>
+										<div className="relative h-72 md:h-96">
+											<Image
+												src="/etapes/3/17224383384206953845.jpg"
+												layout="fill"
+												alt="Première image de l'étape 3"
+												className="object-contain"
+											/>
+										</div>
+										<p>
+											Pour décoder cette image, il fallait remplacer chaque lettre par la lettre à sa gauche sur un clavier AZERTY,
+											ce qui donne : <code>angers</code>
+										</p>
+										<p>
+											Il fallait ensuite aller chercher la crême quantique à la boutique "La Glacerie d'Anjou" à Angers.
+										</p>
+										<p>Félicitations à ACP pour avoir récupéré la crème quantique n°3 !</p>
+										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
+										<p>La crème a été trouvée en 1h07 !</p>
+									</div>
 								</CardContent>
 							</AccordionContent>
 						</AccordionItem>
