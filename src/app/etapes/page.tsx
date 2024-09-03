@@ -248,7 +248,7 @@ export default function Steps() {
 											<Image
 												src="/etapes/3/17224383384206953845.jpg"
 												layout="fill"
-												alt="Première image de l'étape 3"
+												alt="Seconde image de l'étape 3"
 												className="object-contain"
 											/>
 										</div>
@@ -260,6 +260,14 @@ export default function Steps() {
 											Il fallait ensuite aller chercher la crême quantique à la boutique "La Glacerie d'Anjou" à Angers.
 										</p>
 										<p>Félicitations à ACP pour avoir récupéré la crème quantique n°3 !</p>
+										<div className="relative h-72 md:h-96">
+											<Image
+												src="/etapes/3/creme-trouvee.jpg"
+												layout="fill"
+												alt="Photo de la crème trouvée"
+												className="object-contain"
+											/>
+										</div>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
 										<p>La crème a été trouvée en 1h07 !</p>
 									</div>
