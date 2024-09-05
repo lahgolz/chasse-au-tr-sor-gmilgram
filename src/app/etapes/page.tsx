@@ -84,6 +84,7 @@ export default function Steps() {
 										</p>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
 										<p>La crème a été trouvée en 2h environ !</p>
+										<p className="mt-4">Article rédigé par Lahgolz</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
@@ -199,6 +200,7 @@ export default function Steps() {
 										<p>Félicitations à Avistew pour avoir récupéré la crème quantique n°2 !</p>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
 										<p>La crème a été trouvée en 1h20 !</p>
+										<p className="mt-4">Article rédigé par Lahgolz</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
@@ -316,6 +318,7 @@ export default function Steps() {
 										<p>Félicitations à ACP pour avoir récupéré la crème quantique n°3 !</p>
 										<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
 										<p>La crème a été trouvée en 1h07 !</p>
+										<p className="mt-4">Article rédigé par Lucas Cimon et Lahgolz</p>
 									</div>
 								</CardContent>
 							</AccordionContent>
