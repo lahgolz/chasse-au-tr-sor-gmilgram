@@ -219,16 +219,17 @@ export default function Steps() {
 									<div className="flex flex-col gap-4">
 										<h4 className="text-lg underline md:text-xl">Indices :</h4>
 										<p>
-											Un lien vers la vidéo YouTube : <a href="https://www.youtube.com/watch?v=hTM2xAgitMY">youtu.be/hTM2xAgitMY</a>
+											Un lien vers la vidéo YouTube :{' '}
+											<a href="https://www.youtube.com/watch?v=hTM2xAgitMY">youtu.be/hTM2xAgitMY</a>
 										</p>
 										<h4 className="text-lg underline md:text-xl">Explications :</h4>
 										<p>
 											Les paroles de la vidéo permettent de construire ce lien bit.ly :
-											<a href="https://bit.ly/jolicoupgmercibimpasenviedejouerfinalement">bit.ly/jolicoupgmercibimpasenviedejouerfinalement</a>
+											<a href="https://bit.ly/jolicoupgmercibimpasenviedejouerfinalement">
+												bit.ly/jolicoupgmercibimpasenviedejouerfinalement
+											</a>
 										</p>
-										<p>
-											Ce lien redirigeait vers cette image :
-										</p>
+										<p>Ce lien redirigeait vers cette image :</p>
 										<div className="relative h-72 md:h-96">
 											<Image
 												src="/etapes/3/1725265916372270099.png"
@@ -241,9 +242,7 @@ export default function Steps() {
 											Cette énigme permet de trouver un autre lien bit.ly :
 											<a href="https://bit.ly/nassimharameinditdesbetises">bit.ly/nassimharameinditdesbetises</a>
 										</p>
-										<p>
-											Ce lien redirigeait vers cette image :
-										</p>
+										<p>Ce lien redirigeait vers cette image :</p>
 										<div className="relative h-72 md:h-96">
 											<Image
 												src="/etapes/3/17224383384206953845.jpg"
@@ -253,8 +252,8 @@ export default function Steps() {
 											/>
 										</div>
 										<p>
-											Pour décoder cette image, il fallait remplacer chaque lettre par la lettre à sa gauche sur un clavier AZERTY,
-											ce qui donne : <code>angers</code>
+											Pour décoder cette image, il fallait remplacer chaque lettre par la lettre à sa gauche sur un
+											clavier AZERTY, ce qui donne : <code>angers</code>
 										</p>
 										<p>
 											Il fallait ensuite aller chercher la crême quantique à la boutique "La Glacerie d'Anjou" à Angers.
