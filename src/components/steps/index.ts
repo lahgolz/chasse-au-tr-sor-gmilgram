@@ -1,0 +1,14 @@
+export { Step1 } from '@/components/steps/step-1';
+export { Step2 } from '@/components/steps/step-2';
+export { Step3 } from '@/components/steps/step-3';
+export { Step4 } from '@/components/steps/step-4';
+export { Step5 } from '@/components/steps/step-5';
+export { Step6 } from '@/components/steps/step-6';
+export { Step7 } from '@/components/steps/step-7';
+export { Step8 } from '@/components/steps/step-8';
+export { Step9 } from '@/components/steps/step-9';
+export { Step10 } from '@/components/steps/step-10';
+export { Step11 } from '@/components/steps/step-11';
+export { Step12 } from '@/components/steps/step-12';
+export { Step13 } from '@/components/steps/step-13';
+export { Step14 } from '@/components/steps/step-14';
