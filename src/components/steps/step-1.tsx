@@ -33,6 +33,7 @@ export function Step1() {
 										layout="fill"
 										alt="GIF donné par le lien"
 										className="object-contain"
+										unoptimized
 									/>
 								</div>
 								<p>
