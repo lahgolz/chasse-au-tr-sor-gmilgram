@@ -398,7 +398,7 @@ export default function Steps() {
 						<AccordionItem value="item-1">
 							<AccordionTrigger className="py-0 pr-6 hover:no-underline">
 								<CardHeader className="w-full">
-									<CardTitle className="mr-auto text-lg md:text-2xl">8 - Île-de-France</CardTitle>
+									<CardTitle className="mr-auto text-lg md:text-2xl">8 - Côte-d'Or</CardTitle>
 								</CardHeader>
 							</AccordionTrigger>
 							<AccordionContent className="pb-0">
@@ -415,7 +415,7 @@ export default function Steps() {
 						<AccordionItem value="item-1">
 							<AccordionTrigger className="py-0 pr-6 hover:no-underline">
 								<CardHeader className="w-full">
-									<CardTitle className="mr-auto text-lg md:text-2xl">9 - Côte-d'Or</CardTitle>
+									<CardTitle className="mr-auto text-lg md:text-2xl">9 - Nancy-Strasbourg</CardTitle>
 								</CardHeader>
 							</AccordionTrigger>
 							<AccordionContent className="pb-0">
@@ -432,7 +432,7 @@ export default function Steps() {
 						<AccordionItem value="item-1">
 							<AccordionTrigger className="py-0 pr-6 hover:no-underline">
 								<CardHeader className="w-full">
-									<CardTitle className="mr-auto text-lg md:text-2xl">10 - Nancy-Strasbourg</CardTitle>
+									<CardTitle className="mr-auto text-lg md:text-2xl">10 - Île-de-France</CardTitle>
 								</CardHeader>
 							</AccordionTrigger>
 							<AccordionContent className="pb-0">
