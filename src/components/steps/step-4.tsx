@@ -33,7 +33,7 @@ export function Step4() {
 									dedans. La vidéo montre le Château de Montbrun, situé dans la commune de Dournazac, avec une de ses
 									tours qui s'envole telle une fusée. Nos enquêteur·rices se sont bien cassé·es la tête pour savoir à
 									quoi cela pouvait correspondre, mais sans grand résultat. G Milgram, dans un élan de générosité (ou de
-									troll, on ne sait pas) a alors pris la décision de donner le lien d'une autre vidéo YouTube
+									troll, on ne sait pas), a alors pris la décision de donner le lien d'une autre vidéo YouTube
 									(inaccessible aujourd'hui) en commentaire :
 								</p>
 								<div className="relative h-16 md:h-36">
@@ -69,13 +69,13 @@ export function Step4() {
 									Au premier coup d'œil, on peut déjà savoir qu'il va falloir concentrer les recherches à Limoges, mais
 									c'est grand comme ville ! L'équation en dessous n'est pas directement une équation connue dans
 									l'univers scientifique, mais elle peut faire penser à l'équation d'Albert Einstein exprimant la
-									relation entre la masse et l'énergie d'une particule : <code>E=mc²</code>. C'est bien normal que cela
-									nous fasse penser à cette équation, car c'est la même suite de caractères passée sous chiffrage César
-									avec un décalage de 2. Il existe une rue à Limoges à l'effigie de ce grand scientifique, la rue Albert
-									Einstein. L'image montre ensuite le logo de Google Street View, on sait donc où chercher (pas besoin
-									de se déplacer) et en dessous encore, il est fait mention d'une pub, il faut faire attention à une
-									date et mettre le tout en code de lien bit.ly. En parcourant la rue sur Google Street view, on peut
-									trouver ce panneau publicitaire :
+									relation entre la masse et l'énergie d'une particule : <code>E = mc²</code>. C'est bien normal que
+									cela nous fasse penser à cette équation, car c'est la même suite de caractères passée sous chiffrage
+									César avec un décalage de 2. Il existe une rue à Limoges à l'effigie de ce grand scientifique, la rue
+									Albert Einstein. L'image montre ensuite le logo de Google Street View, on sait donc où chercher (pas
+									besoin de se déplacer) et en dessous encore, il est fait mention d'une pub, il faut faire attention à
+									une date et mettre le tout en code de lien bit.ly. En parcourant la rue sur Google Street View, on
+									peut trouver ce panneau publicitaire :
 								</p>
 								<Button variant="link" asChild>
 									<Link
@@ -110,7 +110,7 @@ export function Step4() {
 									</Link>
 								</Button>
 								<p>
-									Une de nos agents est partie sur le terrain et c'est trempée jusqu'à l'os qu'elle a fièrement annoncé
+									Une de nos agents est partie sur le terrain, et c'est trempée jusqu'à l'os qu'elle a fièrement annoncé
 									avoir trouvé le pot de crème au petit matin :
 								</p>
 								<div className="relative h-72">
