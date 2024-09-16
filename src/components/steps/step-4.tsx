@@ -124,7 +124,7 @@ export function Step4() {
 								<p>Félicitations à Boann pour avoir récupéré la crème quantique n°4 !</p>
 								<h4 className="text-lg underline md:text-xl">Temps écoulé :</h4>
 								<p>La crème a été trouvée en 14h56 !</p>
-								<p className="mt-4">Article rédigé par Lahgolz</p>
+								<p className="mt-4">Article rédigé par Lahgolz (merci à Minarov pour son résumé des événements)</p>
 							</div>
 						</CardContent>
 					</AccordionContent>
